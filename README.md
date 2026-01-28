@@ -16,9 +16,9 @@ Navigate to the MobSF directory.
 Start the server: ./run.sh 127.0.0.1:8000.
 Access the dashboard via browser at http://127.0.0.1:8000.
 Screenshots
-![](assets/.png)
-![](assets/.png)
-![](assets/.png)
-![](assets/.png)
+![](assets/App-score.png)
+![](assets/Application-permissions.png)
+![](assets/Domain-malware-check.png)
+![](assets/Terminal-running.png)
 Dashboard: Shows the security score and file summary.
 Vulnerability Report: Detailed list of security flaws.
